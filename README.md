@@ -1,4 +1,4 @@
-<h1>About me</h1>
+<h1>About me 🧑</h1>
 <p>Hi there 👋</p>
 <p>I am a frontend-developer i am 19 years old, I ve been studying programming for over a year.</p>
 
