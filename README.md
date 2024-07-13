@@ -1,7 +1,7 @@
 <h1>About me 🧑</h1>
 <p>Hi there 👋</p>
 <p>I am a frontend-developer i am 19 years old, I ve been studying programming for over a year.</p>
-<p>Contact me: </p>
+<p>Contact me: <a><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&style=for-the-badge"><img></a></p>
 
 <!--
 **YakhyaevGadji/YakhyaevGadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
