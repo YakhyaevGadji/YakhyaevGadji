@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <h1>About me</h1>
+<p>Hi there 👋</p>
 
 <!--
 **YakhyaevGadji/YakhyaevGadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
