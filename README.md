@@ -2,6 +2,8 @@
 <p>Hi there 👋</p>
 <p>I am a frontend-developer i am 19 years old, I ve been studying programming for over a year.</p>
 <p>Contact me: <a href="https://t.me/gadji1801055"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&style=for-the-badge"><img></a></p>
+<h2>Codewars</h2>
+<p><a href="https://www.codewars.com/users/gadki/badges"><img src="https://www.codewars.com/users/gadki/badges/large"><img></a></p>
 
 <!--
 **YakhyaevGadji/YakhyaevGadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
