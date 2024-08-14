@@ -6,8 +6,9 @@
 <p><a href="https://www.codewars.com/users/gadki/badges"><img src="https://www.codewars.com/users/gadki/badges/large"><img></a></p>
 <h2>My stack</h2>
 <h3>Languages</h3>
-<img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&style=for-the-badge"><img>
-<img src="https://img.shields.io/badge/React-black?logo=react&style=for-the-badge"><img>
+<a><img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&style=for-the-badge"><img></a>
+<a><img src="https://img.shields.io/badge/React-black?logo=react&style=for-the-badge"><img></a>
+
 
 <!--
 **YakhyaevGadji/YakhyaevGadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
