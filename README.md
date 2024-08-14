@@ -1,7 +1,15 @@
-<h1>About me 🧑</h1>
-<p>Hi there 👋</p>
-<p>I am a frontend-developer i am 19 years old, I ve been studying programming for over a year.</p>
-<p>Contact me: <a href="https://t.me/gadji1801055"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&style=for-the-badge"><img></a></p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is gadji
+=============================================================================================================================
+
+I am a Web Developer
+--------------------
+
+I've been studying web development for a year and a half. I learned using Google and YouTube
+
+* 🌍  I'm based in Makhachkala
+* ✉️  You can contact me at [https://t.me/gadji1801055](mailto:https://t.me/gadji1801055)
+* 🚀  I'm currently working on [Car-rental](http://github.com/YakhyaevGadji/car-rent)
+* 🧠  I'm learning I'm currently learning NextJs in depth.
 
 <h2>Codewars</h2>
 <p><a href="https://www.codewars.com/users/gadki/badges"><img src="https://www.codewars.com/users/gadki/badges/large"><img></a></p>
