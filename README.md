@@ -1,4 +1,4 @@
-<h1>About me 🧑</h1>
+<h2>About me 🧑</h2>
 <p>Hi there 👋</p>
 <p>I am a frontend-developer i am 19 years old, I ve been studying programming for over a year.</p>
 <p>Contact me: <a href="https://t.me/gadji1801055"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&style=for-the-badge"><img></a></p>
