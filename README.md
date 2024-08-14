@@ -9,7 +9,7 @@ I've been studying web development for a year and a half. I learned using Google
 * 🌍  I'm based in Makhachkala
 * ✉️  You can contact me at [https://t.me/gadji1801055](mailto:https://t.me/gadji1801055)
 * 🚀  I'm currently working on [Car-rental](http://github.com/YakhyaevGadji/car-rent)
-* 🧠  I'm learning I'm currently learning NextJs in depth.
+* 🧠  I'm currently learning NextJs in depth.
 
 <h2>Codewars</h2>
 <p><a href="https://www.codewars.com/users/gadki/badges"><img src="https://www.codewars.com/users/gadki/badges/large"><img></a></p>
