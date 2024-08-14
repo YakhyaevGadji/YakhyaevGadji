@@ -5,8 +5,9 @@
 <h2>Codewars</h2>
 <p><a href="https://www.codewars.com/users/gadki/badges"><img src="https://www.codewars.com/users/gadki/badges/large"><img></a></p>
 <h2>My stack</h2>
-<h3>Languages</h3>
+<h3>Languages and tools</h3>
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&style=for-the-badge"><img>
   <img src="https://img.shields.io/badge/React-black?logo=react&style=for-the-badge"><img>
 </div>
