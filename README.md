@@ -1,4 +1,4 @@
-<h2>About me 🧑</h2>
+<h1>About me 🧑</h1>
 <p>Hi there 👋</p>
 <p>I am a frontend-developer i am 19 years old, I ve been studying programming for over a year.</p>
 <p>Contact me: <a href="https://t.me/gadji1801055"><img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&style=for-the-badge"><img></a></p>
@@ -13,7 +13,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-<h3>Frameworks and Libraries</h3>
+<h2>Frameworks and Libraries</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
