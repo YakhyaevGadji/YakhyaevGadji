@@ -12,7 +12,7 @@ I've been studying web development for a year and a half. I learned using Google
 * 🧠  I'm currently learning NextJs in depth.
 * 🖥️  See my portfolio at [Portfolio](http://yakhyaevgadji.github.io/Portfolio/)
 
-<h2>Codewars</h2>
+<h2>Stats</h2>
 <p><a href="https://www.codewars.com/users/gadki/badges"><img src="https://www.codewars.com/users/gadki/badges/large"><img></a></p>
 
 <h1>My stack</h1>
