@@ -45,7 +45,9 @@ I've been studying web development for a year and a half. I learned using Google
 </div>
 
 <h2>Methodologies</h2>
-
+<div>
+  <img src="./assets/icons/logo-primary.png" title="antdesign" alt="antdesign" width="40" height="40"/>&nbsp;
+</div>
 
 <!--
 **YakhyaevGadji/YakhyaevGadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
