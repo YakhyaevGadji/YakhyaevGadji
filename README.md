@@ -44,6 +44,9 @@ I've been studying web development for a year and a half. I learned using Google
   <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="antdesign" alt="antdesign" width="40" height="40"/>&nbsp;
 </div>
 
+<h2>Methodologies</h2>
+
+
 <!--
 **YakhyaevGadji/YakhyaevGadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
