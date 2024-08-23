@@ -46,7 +46,7 @@ I've been studying web development for a year and a half. I learned using Google
 
 <h2>Methodologies</h2>
 <div>
-  <img src="./assets/icons/logo-primary.png" title="antdesign" alt="antdesign" width="40" height="40"/>&nbsp;
+  <img src="./assets/icons/logo-primary.png" width="50" title="antdesign" alt="antdesign" width="40" height="40"/>&nbsp;
 </div>
 
 <!--
