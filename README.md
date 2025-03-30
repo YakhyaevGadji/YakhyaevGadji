@@ -10,7 +10,6 @@ I've been studying web development for a year and a half. I learned using Google
 * ✉️  You can contact me at [https://t.me/gadji1801055](mailto:https://t.me/gadji1801055)
 * 🚀  I'm currently working on [Car-rental](http://github.com/YakhyaevGadji/car-rent)
 * 🧠  I'm currently learning NextJs in depth.
-* 🖥️  See my portfolio at [Portfolio](http://yakhyaevgadji.github.io/Portfolio/)
 
 <h2>Stats</h2>
 <p><a href="https://www.codewars.com/users/gadki/badges"><img src="https://www.codewars.com/users/gadki/badges/large"><img></a></p>
@@ -47,6 +46,9 @@ I've been studying web development for a year and a half. I learned using Google
   <img src="./assets/icons/logo-primary.png" width="100" title="FSD" alt="antdesign" width="40" height="40"/>&nbsp;
 </div>
 
+<h1>Protfolio 💼</h2>
+<h2>Car-Rend</h3>
+<img src="./assets/icons/car-rent-photo.png" />
 <!--
 **YakhyaevGadji/YakhyaevGadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
