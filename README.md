@@ -16,7 +16,7 @@ I've been studying web development for a year and a half. I learned using Google
 <h2>Languages</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -53,6 +53,27 @@ I've been studying web development for a year and a half. I learned using Google
 <h1>Protfolio 💼</h2>
 <h2>Car-Rend</h3>
 <img src="./assets/icons/car-rent-photo.png" />
+
+Repository: [Car-Rent](http://github.com/YakhyaevGadji/car-rent)<br> 
+Demo: [Car-Rent](https://car-rent-livid.vercel.app/)
+
+
+<h3>Technologies</h3>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="react" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
+</div>
+
+<h3>Features</h3>
+
+- Сar registration
+- Automation and Registration
+- User profile
+- Favorites car
+- Order status
+- User Data Changes
 <!--
 **YakhyaevGadji/YakhyaevGadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
