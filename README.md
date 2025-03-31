@@ -11,8 +11,6 @@ I've been studying web development for a year and a half. I learned using Google
 * 🚀  I'm currently working on [Car-rental](http://github.com/YakhyaevGadji/car-rent)
 * 🧠  I'm currently learning NextJs in depth.
 
-<h2>Stats</h2>
-<p><a href="https://www.codewars.com/users/gadki/badges"><img src="https://www.codewars.com/users/gadki/badges/large"><img></a></p>
 
 <h1>My stack</h1>
 <h2>Languages</h2>
@@ -45,6 +43,12 @@ I've been studying web development for a year and a half. I learned using Google
   <img src="./assets/icons/images.jpg" title="БЭМ" alt="antdesign" width="40" height="40"/>&nbsp;
   <img src="./assets/icons/logo-primary.png" width="100" title="FSD" alt="antdesign" width="40" height="40"/>&nbsp;
 </div>
+
+
+<h1>Stats</h1>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YakhyaevGadji?theme=dark&font=Gowun%20Dodum)
+<p><a href="https://www.codewars.com/users/gadki/badges"><img src="https://www.codewars.com/users/gadki/badges/large"><img></a></p>
 
 <h1>Protfolio 💼</h2>
 <h2>Car-Rend</h3>
