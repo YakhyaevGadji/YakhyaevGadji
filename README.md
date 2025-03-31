@@ -7,7 +7,7 @@ I am a Frontend Developer
 I've been studying web development for a year and a half. I learned using Google and YouTube
 
 * 🌍  I'm based in Makhachkala
-* ✉️  You can contact me at [Telegram](mailto:https://t.me/gadji1801055)
+* ✉️  You can contact me at [Telegram](https://t.me/gadji1801055)
 * 🚀  I'm currently working on [Car-rental](http://github.com/YakhyaevGadji/car-rent)
 * 🧠  I'm currently learning NextJs in depth.
 
