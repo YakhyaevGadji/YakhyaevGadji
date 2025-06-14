@@ -49,22 +49,6 @@ I've been studying web development for a year and a half. I learned using Google
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YakhyaevGadji?theme=dark&font=Gowun%20Dodum)
 <p><a href="https://www.codewars.com/users/gadki/badges"><img src="https://www.codewars.com/users/gadki/badges/large"><img></a></p>
 
-<h3>Technologies</h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  title="react" alt="react" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
-</div>
-
-<h3>Features</h3>
-
-- Сar registration
-- Automation and Registration
-- User profile
-- Favorites car
-- Order status
-- User Data Changes
 <!--
 **YakhyaevGadji/YakhyaevGadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
