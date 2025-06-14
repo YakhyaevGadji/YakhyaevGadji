@@ -8,7 +8,6 @@ I've been studying web development for a year and a half. I learned using Google
 
 * 🌍  I'm based in Makhachkala
 * ✉️  You can contact me at [Telegram](https://t.me/gadji1801055)
-* 🚀  I'm currently working on [Car-rental](http://github.com/YakhyaevGadji/car-rent)
 * 🧠  I'm currently learning NextJs in depth.
 
 
@@ -49,14 +48,6 @@ I've been studying web development for a year and a half. I learned using Google
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YakhyaevGadji?theme=dark&font=Gowun%20Dodum)
 <p><a href="https://www.codewars.com/users/gadki/badges"><img src="https://www.codewars.com/users/gadki/badges/large"><img></a></p>
-
-<h1>Protfolio 💼</h2>
-<h2>Car-Rend</h3>
-<img src="./assets/icons/car-rent-photo.png" />
-
-Repository: [Car-Rent](http://github.com/YakhyaevGadji/car-rent)<br> 
-Demo: [Car-Rent](https://car-rent-livid.vercel.app/)
-
 
 <h3>Technologies</h3>
 <div>
